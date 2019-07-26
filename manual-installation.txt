@@ -1,0 +1,1 @@
+installing python , openssh-server and git on slave node
